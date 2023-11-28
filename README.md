@@ -1,1 +1,1 @@
-### nextjs-supabase-user-management
+### user management - nextjs and supabase 
